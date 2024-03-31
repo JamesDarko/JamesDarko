@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesDarko
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python for Data Analysis at Udacity
-- 💞️ I’m looking forward to collaborate on using python for data science
+- 👀 I’m interested in Data Science and Cloud Computing
+- 🌱 I recently completed the Alx Cloud Computing program with 2 AWS certifications: Cloud Practitioner and Solutions Architect Associate and Python for Data Analysis at Udacity
+- 💞️ I’m looking forward to collaborating on using Python for data science as well as working on the cloud to solve problems
 - 📫 How to reach me at amponsahjames93@gmail.com or +233542687809
 
 <!---
