@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @JamesDarko
-- 👀 I’m interested in Data Science, DevOps and Cloud Computing
-- 🌱 I recently completed the Alx Cloud Computing program with 2 AWS certifications: Cloud Practitioner and Solutions Architect Associate and Python for Data Analysis at Udacity
-- 💞️ I’m looking forward to collaborating on using Python, docker, Kubernetes, Terraform and Linux shell scripting to automate the building, testing and deployment of CI/CD pipelines for efficiency and productivity.
-- 📫 How to reach me at amponsahjames93@gmail.com or +233542687809
+JamesDarko/README.md
+Hi 👋, I’m @JamesDarko, an AWS Certified Solutions Architect and Cloud DevOps Engineer from Ghana, with 1 year of Cloud experience and 30 DevOps projects. 
 
-<!---
-JamesDarko/JamesDarko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Languages and Tools:
+I work on DevOps, Microservices, containers, and everything around it.
+I’m looking to collaborate on Cloud-native Projects
+Programming Language Stack
+bash python 
+
+OS Stack
+Linux ubuntu alpine centOS
+
+
+DevOps Stack
+AWS Ansible Terraform Jenkins Github Actions Docker Kubernetes Nginx Prometheus
+
+Project Management Stack
+Git Github Jira Trello
+
+Editor / IDE I ♥
+Vs-code
+
+Connect with me:
+💬 Ask me about Cloud and DevOps
+📫 How to reach me amponsahjames93@gmail.com or +233542687809
+⚡ Fun fact I trying new things
