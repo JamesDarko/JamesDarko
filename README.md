@@ -1,6 +1,6 @@
 JamesDarko/README.md
 
-Hi 👋, I’m @JamesDarko, an AWS Certified Solutions Architect and Cloud DevOps Engineer from Ghana, with 1 year of Cloud experience and 30 DevOps projects. 
+Hi 👋, I’m @JamesDarko, an AWS Certified Solutions Architect and Cloud DevOps Engineer from Ghana, with 2+ year of Cloud experience and some DevOps projects. 
 
 Languages and Tools:
 I work on DevOps, Microservices, containers, and everything around it.
